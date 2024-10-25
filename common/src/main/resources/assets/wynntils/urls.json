@@ -225,7 +225,7 @@
   },
   {
     "id": "dataStaticUrls",
-    "url": "https://raw.githubusercontent.com/Wynntils/Static-Storage/main/Data-Storage/urls.json"
+    "url": "https://raw.githubusercontent.com/Alexmc567/Wynntils/refs/heads/main/common/src/main/resources/assets/wynntils/urls.json"
   },
   {
     "arguments": [
